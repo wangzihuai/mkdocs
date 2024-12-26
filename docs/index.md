@@ -1,6 +1,7 @@
 # Welcome to zihuai
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+update doc
 
 ## Commands
 
